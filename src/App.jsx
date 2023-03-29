@@ -1,11 +1,13 @@
 import { useState } from 'react'
+import BasicFormComponent from './components/Form';
 
 function App() {
 
   return (
-    <div>
-      <h1>hello world</h1>
-
+    <div class='background' >
+      <div>
+        <BasicFormComponent />
+      </div>
     </div>
   )
 }

@@ -1,0 +1,9 @@
+Form {
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.belltower{
+    transform: scale(50%);
+    margin-left: 330px;
+}
